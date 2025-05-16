@@ -26,3 +26,7 @@
 ## See Results
 - [http://localhost:8080/fourteener-quiz](http://localhost:8080/fourteener-quiz)
 - note that when you setup your OpenAI account for an API_KEY you need a minimal payment.
+
+
+### References
+- [OpenAI Docs Creating Prompts](https://platform.openai.com/docs/guides/text?api-mode=responses#prompt-engineering)
